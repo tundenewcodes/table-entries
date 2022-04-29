@@ -1,3 +1,9 @@
+# table entries app is a simple app bui3t with react
+# data was gotten from from jsonplaceholder using axios as endpoint and react-context for app state managenent and styled with tailwindcss
+#simple basic and easy to use
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
